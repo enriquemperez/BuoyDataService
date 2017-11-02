@@ -1,0 +1,1 @@
+This Springboot web service allows a client to send over RESTful call to get Buoy data from the NOAA website. 
